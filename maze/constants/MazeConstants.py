@@ -1,0 +1,5 @@
+WALL = 0
+EMPTY = 1
+FILL = 2
+START = 3
+FINISH = 4
