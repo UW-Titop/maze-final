@@ -10,5 +10,6 @@ python source code of implementations
 ## final-notebook.ipynb
 notebook file for data processing and creating diagrams
 
-Repor (PDF):
+Report (PDF):
+
 [IntroToAI-MazeProject-Final.pdf](https://github.com/UW-Titop/maze-final/files/7920586/IntroToAI-MazeProject-Final.pdf)
