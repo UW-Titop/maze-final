@@ -10,6 +10,10 @@ python source code of implementations
 ## final-notebook.ipynb File
 notebook file for data processing and creating diagrams
 
+## Your First Step:
+
+[![Your First Step](https://img.youtube.com/vi/vrMN9HSc8LI/0.jpg)](https://www.youtube.com/watch?v=vrMN9HSc8LI)
+
 ## Report (PDF):
 
 [IntroToAI-MazeProject-Final.pdf](https://github.com/UW-Titop/maze-final/files/7920586/IntroToAI-MazeProject-Final.pdf)
