@@ -14,13 +14,13 @@ notebook file for data processing and creating diagrams
 
 [IntroToAI-MazeProject-Final.pdf](https://github.com/UW-Titop/maze-final/files/7920586/IntroToAI-MazeProject-Final.pdf)
 
-## Some pictures of the generated environments: 
+## Some pictures of the generated environments
 
 <img src="https://user-images.githubusercontent.com/20484865/150681015-7455c057-4071-48ef-b974-d1065e5d151a.png" width=400 height=400/>
 <img src="https://user-images.githubusercontent.com/20484865/150681016-c437a296-8623-4dd3-8576-bcc7a170a272.png" width=400 height=400/>
 <img src="https://user-images.githubusercontent.com/20484865/150681017-2820e154-988a-468d-8a8e-21214a843775.png" width=400 height=400/>
 
-# Implementation: 
+# Implementation
 
 - [x] Creating maze environment, depth-first algorithm
 - [x] Creating maze environment, Kruskal algorithm
