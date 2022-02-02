@@ -13,7 +13,7 @@ notebook file for data processing and creating diagrams
 ## Video Demo:
 If you are interested in using this project, we have created a [Video](https://www.youtube.com/watch?v=vrMN9HSc8LI) for your first step.
 
-[![Video Demo](https://github.com/feknall/ai-dino/blob/master/_doc/demo_screenshot.png)](https://www.youtube.com/watch?v=vrMN9HSc8LI)
+[![Video Demo](https://github.com/UW-Titop/maze-final/blob/master/maze_demo.png)](https://www.youtube.com/watch?v=vrMN9HSc8LI)
 
 ## Report (PDF):
 
